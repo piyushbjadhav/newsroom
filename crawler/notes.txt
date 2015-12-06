@@ -1,0 +1,17 @@
+--Goose
+--- Python Article Extaction Library. Works pretty well. Takes URL and return Artitle text, titlet
+
+--newspaper
+--- Very Powerful, Scrapes all articles from a website. Parses them for text,title,author
+
+http://newspaper.readthedocs.org/en/latest/
+
+INSTALLATION
+sudo apt-get install python-dev
+sudo apt-get install libxml2-dev libxslt-dev
+sudo apt-get install libjpeg-dev zlib1g-dev libpng12-dev
+pip install newspaper
+curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python2.7
+
+--MySql Driver
+sudo apt-get install python-mysqldb
