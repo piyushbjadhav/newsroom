@@ -15,3 +15,7 @@ curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpo
 
 --MySql Driver
 sudo apt-get install python-mysqldb
+
+--Lucene
+todo: Check pylucene module
+One article crawled update the index
