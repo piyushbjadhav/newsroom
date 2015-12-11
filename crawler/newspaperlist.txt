@@ -10,3 +10,11 @@ http://www.msnbc.com/
 http://www.foxnews.com/
 http://www.nytimes.com/
 http://www.theverge.com/
+http://www.huffingtonpost.com/
+http://www.buzzfeed.com/
+http://www.dailymail.co.uk/
+http://www.bbc.com/
+http://espn.go.com/
+http://www.espncricinfo.com/
+http://time.com/
+http://techcrunch.com/
